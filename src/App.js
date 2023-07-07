@@ -30,7 +30,7 @@ function App() {
           <li className="characters">
             <img src={noturno} alt="Nightcrawler character" />
           </li>
-          <li className="characters">
+{/*           <li className="characters">
             <img src={tempestade} alt="Storm character" />
           </li>
           <li className="characters">
@@ -46,3 +46,4 @@ function App() {
 }
 
 export default App;
+ */}
