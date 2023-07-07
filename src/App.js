@@ -23,7 +23,7 @@ function App() {
           </li>
           <li className="characters">
             <img src={lince} alt="Kitty Pryde character" />
-{/*           </li>
+          </li>
           <li className="characters">
             <img src={magneto} alt="Magneto character" />
           </li>
@@ -46,4 +46,3 @@ function App() {
 }
 
 export default App;
- */}
