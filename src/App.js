@@ -23,14 +23,14 @@ function App() {
           </li>
           <li className="characters">
             <img src={lince} alt="Kitty Pryde character" />
-          </li>
+{/*           </li>
           <li className="characters">
             <img src={magneto} alt="Magneto character" />
           </li>
           <li className="characters">
             <img src={noturno} alt="Nightcrawler character" />
           </li>
-{/*           <li className="characters">
+          <li className="characters">
             <img src={tempestade} alt="Storm character" />
           </li>
           <li className="characters">
